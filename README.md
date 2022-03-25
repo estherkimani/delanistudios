@@ -16,8 +16,7 @@
 ## Description
 ## HEAD
 <p>This is  a webpage that displays services offered by Delani Studio. This project is a website for a studio i.e., Delani Studio which contains a Welcome page, an About us, Services, What we do, Portfolio and, a Contact Us section.</p>
-=======
-<p>This is  a webpage that displays services offered by Delani Studio</p>
+
 
 ## Installation
 
