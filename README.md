@@ -29,7 +29,7 @@
 ### The Installation Process
 ****
 Click on the link below to view the site
-[https://estherkimani.github.io/delanistudio/]
+[https://estherkimani.github.io/delanistudios/]
 ## Technology Used
 * HTML - which was used to build the structure of the pages.
 
